@@ -1,0 +1,11 @@
+# The intern's to-do list is local: it is the working state of the Pandit
+# batches on this machine, not something to share or review as a diff.
+todo/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS / PyCharm
+.DS_Store
+.idea/
